@@ -1,0 +1,35 @@
+{
+  "name": "codervio/filesignature",
+  "type": "library",
+  "description": "Codervio Filesignature",
+  "keywords": ["file",  "filesignature", "mime", "files", "php", "framework"],
+  "homepage": "http://codervio.com",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Marin Sagovac",
+      "email": "marin@sagovac.com"
+    },
+    {
+      "name": "Codervio Community",
+      "homepage": "http://codervio.com"
+    }
+  ],
+  "require": {
+    "php": "^7.1",
+    "codervio/filesignature": "dev-master"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "6.0.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Codervio\\Filesignature\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Codervio\\Filesignature\\": "test/"
+    }
+  }
+}

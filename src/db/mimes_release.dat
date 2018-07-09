@@ -1,0 +1,3552 @@
+AOL parameter|info files
+--
+0   41435344
+*
+-
+
+Binary property list (plist)
+--
+0   62706C697374
+*
+PLIST
+-
+
+BIOS details in RAM
+--
+0   001400000102
+*
+-
+
+cpio archive
+--
+0   3037303730
+*
+application/x-cpio
+
+ELF executable
+--
+0   7F454C46
+*
+-
+
+Extended tcpdump (libpcap) capture file
+--
+0   A1B2CD34
+*
+-
+
+INFO2 Windows recycle bin_1
+--
+0   04000000
+*
+
+
+INFO2 Windows recycle bin_2
+--
+0   05000000
+*
+
+
+Java serialization data
+--
+0   ACED
+*
+application/x-java-serialized-data
+
+KWAJ (compressed) file
+--
+0   4B57414A88F027D1
+**_
+
+
+NAV quarantined virus file
+--
+0   CD20AAAA02000000
+*
+
+
+QBASIC SZDD file
+--
+0   535A2088F02733D1
+*
+
+
+SMS text (SIM)
+--
+0   6F3C
+*
+
+
+SZDD file format
+--
+0   535A444488F02733
+*
+
+
+tcpdump (libpcap) capture file
+--
+0   A1B2C3D4
+*
+?
+
+Tcpdump capture file
+--
+0   34CDB2A1
+*
+application/vnd.tcpdump.cap
+
+UTF8 file
+--
+0   EFBBBF
+*
+?
+
+UTF-16|UCS-2 file
+--
+0   FEFF
+*
+
+
+UTF-32|UCS-4 file
+--
+0   FFFE0000
+*
+
+
+UUencoded file
+--
+0   626567696E
+*
+?
+
+WinDump (winpcap) capture file
+--
+0   D4C3B2A1
+*
+application/vnd.tcpdump.pcap
+
+zisofs compressed file
+--
+0   37E45396C9DBD607
+*
+?
+
+Lotus 1-2-3 (v9)
+--
+0   00001A00051004
+123
+application/x-lotus123
+
+Windows virtual device drivers
+--
+0   4D5A
+386
+application/octet-stream
+
+3rd Generation Partnership Project 3GPP2 multimedia files
+--
+0   00000100
+3G2
+video/3gpp
+
+3rd Generation Partnership Project 3GPP multimedia files
+--
+0   0000001466747970
+3GP
+video/3gp
+
+3GPP2 multimedia files
+--
+0   0000002066747970
+3GP
+video/3gp
+
+MPEG-4 video files
+--
+0   0000001866747970
+3GP5
+video/3gp
+
+4X Movie video
+--
+0   52494646
+4XM
+audio/x-adpcm
+
+7-Zip compressed file
+--
+0   377ABCAF271C
+7Z
+application/x-7z-compressed
+
+Palm Address Book Archive
+--
+0   00014241
+ABA
+application/octet-stream
+
+AOL parameter|info files
+--
+0   41435344
+*
+?
+
+Binary property list (plist)
+--
+0   62706C697374
+PLIST
+application/x-plist
+
+BIOS details in RAM
+--
+0   001400000102
+*
+?
+
+Extended tcpdump (libpcap) capture file
+--
+0   A1B2CD34
+CAP
+application/vnd.tcpdump.cap
+
+Extended tcpdump (libpcap) capture file
+--
+0   A1B2CD34
+PCAP
+application/vnd.tcpdump.pcap
+
+INFO2 Windows recycle bin_1
+--
+0   04000000
+*
+?
+
+INFO2 Windows recycle bin_2
+--
+0   05000000
+*
+?
+
+Java serialization data
+--
+0   ACED
+*
+?
+
+KWAJ (compressed) file
+--
+0   4B57414A88F027D1
+*
+?
+
+NAV quarantined virus file
+--
+0   CD20AAAA02000000
+*
+?
+
+QBASIC SZDD file
+--
+0   535A2088F02733D1
+SZDD
+?
+
+SMS text (SIM)
+--
+0   6F3C
+*
+?
+
+SZDD file format
+--
+0   535A444488F02733
+SZDD
+?
+
+tcpdump (libpcap) capture file
+--
+0   A1B2C3D4
+*
+application/vnd.tcpdump.cap
+
+Lotus 1-2-3 (v9)
+--
+0   00001A00051004
+123
+application/x-lotus123
+
+Windows virtual device drivers
+--
+0   4D5A
+386
+application/octet-stream
+
+Windows virtual device drivers
+--
+0   4D5A
+386
+application/octet-stream
+
+3GPP multimedia files
+--
+0   0000001466747970
+3GP
+video/3gp
+
+3GPP2 multimedia files
+--
+0   0000002066747970
+3GP
+video/3gp
+
+MPEG-4 video files
+--
+0   0000001866747970
+3GP5
+video/3gp
+
+4X Movie video
+--
+0   52494646
+4XM
+application/octet-stream
+
+7-Zip compressed file
+--
+0   377ABCAF271C
+7Z
+application/x-7z-compressed
+
+Palm Address Book Archive
+--
+0   00014241
+ABA
+application/octet-stream
+
+ABD | QSD Quicken data file
+--
+0   5157205665722E20
+ABD
+application/octet-stream
+
+AOL address book index
+--
+0   414F4C494E444558
+ABI
+application/abiword
+
+AOL config files
+--
+0   414F4C
+ABI
+application/abiword
+
+AOL address book
+--
+0   414F4C4442
+ABY
+application/octet-stream
+
+AOL config files
+--
+0   414F4C
+ABY
+application/octet-stream
+
+Sonic Foundry Acid Music File
+--
+0   72696666
+AC
+text/plain
+
+Microsoft Access 2007
+--
+0   000100005374616E6461726420414345204442
+ACCDB
+application/msaccess
+
+MS audio compression manager driver
+--
+0   4D5A
+ACM
+application/octet-stream
+
+MS Agent Character file
+--
+0   C3ABCDAB
+ACS
+application/octet-stream
+
+CaseWare Working Papers
+--
+0   D0CF11E0A1B11AE1
+AC_
+application/octet-stream
+
+Antenna data file
+--
+0   5245564E554D3A2C
+AD
+application/octet-stream
+
+Amiga disk file
+--
+0   444F53
+ADF
+application/octet-stream
+
+Access project file
+--
+0   D0CF11E0A1B11AE1
+ADP
+application/vnd.ms-access
+
+Approach index file
+--
+0   0300000041505052
+ADX
+audio/x-adx
+
+Dreamcast audio
+--
+0   80000020031204
+ADX
+audio/x-adx
+
+Audio Interchange File Format
+--
+0   464F524D00
+AIFF
+audio/x-aiff
+
+AIN Compressed Archive
+--
+0   2112
+AIN
+application/octet-stream
+
+Adaptive Multi-Rate ACELP Codec (GSM)
+--
+0   2321414D52
+AMR
+audio/amr
+
+Windows animated cursor
+--
+0   52494646
+ANI
+application/octet-stream
+
+AMIGA Animated GIF
+--
+0   ?
+ANIM*
+?
+
+Acrobat plug-in
+--
+0   4D5A900003000000
+API
+application/x-photoshop
+
+Android APK archive
+--
+0
+APK
+application/vnd.android.package-archive
+
+Animated Portable Network Graphics
+--
+0   89504E470D0A1A0A
+28  49444154
+APNG
+image/apng
+
+Lotus|IBM Approach 97 file
+--
+0   D0CF11E0A1B11AE1
+APR
+application/vnd.lotus-approach
+
+FreeArc compressed file
+--
+0   41724301
+ARC
+application/x-arc-compressed
+
+LH archive (old vers.|type 1)
+--
+0   1A02
+ARC
+application/x-arc-compressed
+
+LH archive (old vers.|type 2)
+--
+0   1A03
+ARC
+application/x-arc-compressed
+
+LH archive (old vers.|type 3)
+--
+0   1A04
+ARC
+application/x-arc-compressed
+
+LH archive (old vers.|type 4)
+--
+0   1A08
+ARC
+application/x-arc-compressed
+
+LH archive (old vers.|type 5)
+--
+0   1A09
+ARC
+application/x-arc-compressed
+
+ARJ Compressed archive file
+--
+0   60EA
+ARJ
+application/x-arj-compressed
+
+AOL history|typed URL files
+--
+0   D42A
+ARL
+application/octet-stream
+
+Windows Media Audio|Video File
+--
+0   3026B2758E66CF11
+ASF
+video/x-ms-asf
+
+Advanced System Format
+--
+0   3026B2758E66CF11
+ASF
+video/x-ms-asf
+
+Underground Audio
+--
+0   5343486C
+AST
+application/octet-stream
+
+Advanced Stream Redirector
+--
+0   3C
+ASX
+video/x-ms-asf
+
+Multimedia Applications Development Andrew data stream
+--
+?
+
+application/andrew-inset
+
+Audacity audio file format
+--
+0   646E732E
+AU
+audio/x-au
+
+NeXT|Sun Microsystems audio file
+--
+0   2E736E64
+AU
+audio/x-au
+
+AOL history|typed URL files
+--
+0   D42A
+AUT
+application/octet-stream
+
+Resource Interchange File Format
+--
+0   52494646
+AVI
+video/x-msvideo
+
+MS Answer Wizard
+--
+0   8A0109000000E108
+AW
+application/octet-stream
+
+DirectShow filter
+--
+0   4D5A900003000000
+AX
+application/octet-stream
+
+Library cache file
+--
+0   4D5A
+AX
+application/octet-stream
+
+AOL and AIM buddy list
+--
+0   414F4C2046656564
+BAG
+application/octet-stream
+
+AOL config files
+--
+0   414F4C
+BAG
+application/octet-stream
+
+MS Publisher
+--
+0   5854
+BDR
+text/plain
+
+Speedtouch router firmware
+--
+0   424C4932323351
+BIN
+application/octet-stream
+
+Amazon Kindle Update Package
+--
+0   53503031
+BIN
+application/x-binary
+
+Bitmap image
+--
+0   424D
+BMP
+image/bmp
+
+Better Portable Graphics
+--
+0   425047FB
+BPG
+image/bpg
+
+bzip2 compressed archive
+--
+0   425A68
+BZ2
+application/x-bzip2
+
+Install Shield compressed file
+--
+0   49536328
+CAB
+application/octet-stream
+
+Microsoft cabinet file
+--
+0   4D534346
+CAB
+application/octet-stream
+
+Apple Core Audio File
+--
+0   63616666
+CAF
+audio/x-caf
+
+CALS raster bitmap
+--
+0   737263646F636964
+CAL
+image/x-cals
+
+SuperCalc worksheet
+--
+0   537570657243616C
+CAL
+image/x-cals
+
+Windows calendar
+--
+0   B5A2B0B3B3B0A5B5
+CAL
+image/x-cals
+
+Packet sniffer files
+--
+0   58435000
+CAP
+application/octet-stream
+
+WinNT Netmon capture file
+--
+0   52545353
+CAP
+application/octet-stream
+
+EnCase case file
+--
+0   5F434153455F
+CAS
+text/plain
+
+MS security catalog file
+--
+0   30
+CAT
+application/octet-stream
+
+WordPerfect dictionary
+--
+0   434246494C45
+CBD
+application/octet-stream
+
+EnCase case file
+--
+0   5F434153455F
+CBK
+application/octet-stream
+
+Chrome Extension file
+--
+0   43723234
+CRX
+application/x-chrome-extension
+
+Resource Interchange File Format
+--
+0   52494646
+CDA
+application/x-cda
+
+CorelDraw document
+--
+0   52494646
+CDR
+image/x-coreldraw
+
+Elite Plus Commander game file
+--
+0   454C49544520436F
+CDR
+image/x-coreldraw
+
+Sony Compressed Voice File
+--
+0   4D535F564F494345
+CDR
+image/x-coreldraw
+
+Flight Simulator Aircraft Configuration
+--
+0   5B666C7473696D2E
+CFG
+application/octet-stream
+
+MS Compiled HTML Help File
+--
+0   49545346
+CHI
+application/octet-stream
+
+MS Compiled HTML Help File
+--
+0   49545346
+CHM
+application/x-chm
+
+Java bytecode
+--
+0   CAFEBABE
+CLASS
+application/java-vm
+
+COM+ Catalog
+--
+0   434F4D2B
+CLB
+application/octet-stream
+
+Corel Binary metafile
+--
+0   434D5831
+CLB
+application/octet-stream
+
+Corel Presentation Exchange metadata
+--
+0   52494646
+CMX
+application/octet-stream
+
+DB2 conversion file
+--
+0   53514C4F434F4E56
+CNV
+application/octet-stream
+
+Agent newsreader character map
+--
+0   4E616D653A20
+COD
+text/plain
+
+Windows|DOS executable file
+--
+0   4D5A
+COM
+application/x-com
+
+Windows executable file_1
+--
+0   E8
+COM
+application/x-com
+
+Windows executable file_2
+--
+0   E9
+COM
+application/x-com
+
+Windows executable file_3
+--
+0   EB
+COM
+application/x-com
+
+MS Fax Cover Sheet
+--
+0   464158434F564552
+CPE
+application/octet-stream
+
+Sietronics CPI XRD document
+--
+0   53494554524F4E49
+CPI
+application/octet-stream
+
+Windows international code page
+--
+0   FF464F4E54
+CPI
+application/octet-stream
+
+Control panel application
+--
+0   4D5A
+CPL
+application/octet-stream
+
+Corel color palette
+--
+0   DCDC
+CPL
+application/octet-stream
+
+Corel Photopaint file_1
+--
+0   4350543746494C45
+CPT
+image/x-cpt
+
+Corel Photopaint file_2
+--
+0   43505446494C45
+CPT
+image/x-cpt
+
+Microsoft Code Page Translation file
+--
+0   5B57696E646F7773
+CPX
+application/octet-stream
+
+Crush compressed archive
+--
+0   43525553482076
+CRU
+application/octet-stream
+
+Canon RAW file
+--
+0   49491A0000004845
+CRW
+image/x-raw
+
+Canon Raw Version 2
+--
+0   49492A0010000000
+CR2
+image/x-raw
+
+Photoshop Custom Shape
+--
+0   6375736800000002
+CSH
+application/x-photoshop
+
+WhereIsIt Catalog
+--
+0   436174616C6F6720
+CTF
+application/octet-stream
+
+Visual Basic User-defined Control file
+--
+0   56455253494F4E20
+CTL
+application/octet-stream
+
+Customization files
+--
+0   504B0304
+CUIX
+application/octet-stream
+
+Windows cursor
+--
+0   00000200
+CUR
+image/x-win-bitmap
+
+Video CD MPEG movie
+--
+0   52494646
+DAT
+application/octet-stream
+
+Access Data FTK evidence
+--
+0   A90D000000000000
+DAT
+application/octet-stream
+
+Allegro Generic Packfile (compressed)
+--
+0   736C6821
+DAT
+application/octet-stream
+
+Allegro Generic Packfile (uncompressed)
+--
+0   736C682E
+DAT
+application/octet-stream
+
+AVG6 Integrity database
+--
+0   415647365F496E74
+DAT
+application/octet-stream
+
+MapInfo Native Data Format
+--
+0   03
+DAT
+application/octet-stream
+
+EasyRecovery Saved State file
+--
+0   4552465353415645
+DAT
+application/octet-stream
+
+IE History file
+--
+0   436C69656E742055
+DAT
+application/octet-stream
+
+Inno Setup Uninstall Log
+--
+0   496E6E6F20536574
+DAT
+application/octet-stream
+
+Norton Disk Doctor undo file
+--
+0   504E4349554E444F
+DAT
+application/octet-stream
+
+PestPatrol data|scan strings
+--
+0   50455354
+DAT
+application/octet-stream
+
+Runtime Software disk image
+--
+0   1A52545320434F4D
+DAT
+application/octet-stream
+
+Shareaza (P2P) thumbnail
+--
+0   52415A4154444231
+DAT
+application/octet-stream
+
+TomTom traffic data
+--
+0   4E41565452414646
+DAT
+application/octet-stream
+
+UFO Capture map file
+--
+0   55464F4F72626974
+DAT
+application/octet-stream
+
+Walkman MP3 file
+--
+0   574D4D50
+DAT
+application/octet-stream
+
+Win9x registry hive
+--
+0   43524547
+DAT
+application/octet-stream
+
+WinNT registry file
+--
+0   72656766
+DAT
+application/octet-stream
+
+MSWorks database file
+--
+0   D0CF11E0A1B11AE1
+DB
+application/octet-stream
+
+dBASE IV or dBFast configuration file
+--
+0   08
+DB
+application/octet-stream
+
+Netscape Navigator (v4) database
+--
+0   0006156100000002000004D200001000
+DB
+application/octet-stream
+
+Palm Zire photo database
+--
+0   44424648
+DB
+application/octet-stream
+
+SQLite database file
+--
+0   53514C69746520666F726D6174203300
+DB
+application/octet-stream
+
+Thumbs.db subheader
+--
+0   FDFFFFFF
+DB
+application/octet-stream
+
+dBASE III file
+--
+0   03
+DB3
+application/octet-stream
+
+dBASE IV file
+--
+0   04
+DB4
+application/octet-stream
+
+Palm DateBook Archive
+--
+0   00014244
+DBA
+application/octet-stream
+
+DarkBasic source code
+--
+0   BEBAFECA
+DBA
+?
+
+Database file
+--
+0   BEBAFECA
+DBA
+?
+
+Skype user data file
+--
+0   6C33336C
+DBB
+application/octet-stream
+
+Psion Series 3 Database
+--
+0   4F504C4461746162
+DBF
+application/octet-stream
+
+Outlook Express e-mail folder
+--
+0   CFAD12FE
+DBX
+application/octet-stream
+
+AOL HTML mail
+--
+0   3C21646F63747970
+DCI
+application/octet-stream
+
+PCX bitmap
+--
+0   B168DE3A
+DCX
+image/x-dcx
+
+Dalvik (Android) executable file
+--
+0   6465780A30303900
+dex
+application/octet-stream
+
+Device independent bitmap (DIB) file format
+--
+0   424D
+DIB
+image/bmp
+
+Windows|DOS executable file
+--
+0   4D5A
+DLL
+application/x-msdownload
+
+Mac OS X Disk Image
+--
+0   7801730D626260
+DMG
+application/x-apple-diskimage
+
+MacOS X image file
+--
+0   78
+DMG
+application/octet-stream
+
+Windows dump file
+--
+0   4D444D5093A7
+DMP
+application/octet-stream
+
+Windows memory dump
+--
+0   504147454455
+DMP
+application/octet-stream
+
+Amiga DiskMasher compressed archive
+--
+0   444D5321
+DMS
+application/x-diskmasher
+
+Microsoft Office Word document
+--
+0   D0CF11E0A1B11AE1
+DOC
+application/msword
+
+Microsoft Excell Document
+--
+0   D0CF11E0A1B11AE1
+XLS
+application/vnd.ms-excel
+
+Microsoft Outlook E-Mail Message
+--
+0   D0CF11E0A1B11AE1
+MSG
+application/x-msg
+
+DeskMate Document
+--
+0   0D444F43
+DOC
+application/msword
+
+Perfect Office document
+--
+0   CF11E0A1B11AE100
+DOC
+application/msword
+
+Word 2.0 file
+--
+0   DBA52D00
+DOC
+application/msword
+
+Word document subheader
+--
+0   ECA5C100
+DOC
+application/msword
+
+MS Office Open XML Format Document
+--
+0   504B0304
+DOCX
+application/vnd.openxmlformats
+
+MS Office 2007 documents
+--
+0   504B030414000600
+DOCX
+application/vnd.openxmlformats
+
+Microsoft Office document
+--
+0   D0CF11E0A1B11AE1
+DOT
+application/msword
+
+Windows|DOS executable file
+--
+0   4D5A
+DRV
+application/octet-stream
+
+Generic drawing programs
+--
+0   07
+DRW
+application/x-mgx-designer
+
+Micrografx vector graphic file
+--
+0   01FF02040302
+DRW
+application/x-mgx-designer
+
+Micrografx Designer graphic
+--
+0   52494646
+DS4
+application/x-ds4
+
+CD Stomper Pro label file
+--
+0   4D56
+DSN
+application/octet-stream
+
+MS Developer Studio project file
+--
+0   23204D6963726F73
+DSP
+audio/x-dsp
+
+Digital Speech Standard file
+--
+0   02647373
+DSS
+audio/x-dss
+
+MS Visual Studio workspace file
+--
+0   64737766696C65
+DSW
+application/octet-stream
+
+DesignTools 2D Design file
+--
+0   0764743264647464
+DTD
+application/xml-dtd
+
+Dial-up networking file
+--
+0   5B50686F6E655D
+DUN
+application/octet-stream
+
+Sony Compressed Voice File
+--
+0   4D535F564F494345
+DVF
+audio/x-dvf
+
+DVR-Studio stream file
+--
+0   445644
+DVR
+application/octet-stream
+
+Visio|DisplayWrite 4 text file
+--
+0   4F7B
+DW4
+?
+
+Generic AutoCAD drawing
+--
+0   41433130
+DWG
+application/x-autocad
+
+Expert Witness Compression Format
+--
+0   455646090D0AFF00
+E01
+application/octet-stream
+
+Logical File Evidence Format
+--
+0   4C5646090D0AFF00
+E01
+application/octet-stream
+
+MS Exchange configuration file
+--
+0   5B47656E6572616C
+ECF
+application/octet-stream
+
+eFax file
+--
+0   DCFE
+EFX
+image/efax
+
+Exchange e-mail
+--
+0   582D
+EML
+message/rfc822
+
+Generic e-mail_1
+--
+0   52657475726E2D50
+EML
+message/rfc822
+
+Generic e-mail_2
+--
+0   46726F6D
+EML
+message/rfc822
+
+EndNote Library File
+--
+0   40404020000040404040
+ENL
+application/octet-stream
+
+Adobe encapsulated PostScript
+--
+0   C5D0D3C6
+EPS
+image/x-eps
+
+Encapsulated PostScript file
+--
+0   252150532D41646F
+EPS
+image/x-eps
+
+WinPharoah capture file
+--
+0   1A350100
+ETH
+application/octet-stream
+
+Windows Event Viewer file
+--
+0   300000004C664C65
+EVT
+application/octet-stream
+
+Windows Vista event log
+--
+0   456C6646696C6500
+EVTX
+application/octet-stream
+
+Windows|DOS executable file
+--
+0   4D5A
+EXE
+application/x-ms-dos-executable
+
+Portable Document Format - PDF file
+--
+0   25504446
+FDF
+application/vnd.fdf
+
+Macromedia Freehand Drawing
+--
+0   41474433
+FH8
+application/x-freehand
+
+Free Lossless Audio Codec file
+--
+0   664C614300000022
+FLAC
+audio/x-flac
+
+FLIC animation
+--
+0   0011
+FLI
+video/flc
+
+Audition graphic filter
+--
+0   4D5A900003000000
+FLT
+application/octet-stream
+
+Qimage filter
+--
+0   76323030332E3130
+FLT
+application/octet-stream
+
+Flash video file
+--
+0   464C56
+FLV
+video/x-flv
+
+Adobe FrameMaker
+--
+0   3C4D616B65724669
+FM
+application/x-fm
+
+Font file
+--
+0   4D5A
+FON
+application/octet-stream
+
+WinPharoah filter file
+--
+0   D20A0000
+FTR
+application/octet-stream
+
+Symantex Ghost image file
+--
+0   FEEF
+GHO
+application/octet-stream
+
+Symantex Ghost image file
+--
+0   FEEF
+GHS
+application/octet-stream
+
+Windows Help file_2
+--
+0   3F5F0300
+GID
+application/x-winhelp
+
+Windows help file_3
+--
+0   4C4E0200
+GID
+application/x-winhelp
+
+GIF file
+--
+0   47494638
+GIF
+image/gif
+
+Graphics Interchange Format
+--
+0   474946383961
+GIF
+image/gif
+
+Graphics Interchange Format
+--
+0   474946383961
+GIF
+image/gif
+
+GPG public keyring
+--
+0   99
+GPG
+application/gpg-keys
+
+Windows Program Manager group file
+--
+0   504D4343
+GRP
+application/octet-stream
+
+Show Partner graphics file
+--
+0   475832
+GX2
+application/octet-stream
+
+GZIP archive file
+--
+0   1F8B08
+GZ
+application/x-gzip
+
+Hamarsoft compressed archive
+--
+0   91334846
+HAP
+application/octet-stream
+
+Windows dump file
+--
+0   4D444D5093A7
+HDMP
+application/octet-stream
+
+Install Shield compressed file
+--
+0   49536328
+HDR
+application/octet-stream
+
+Radiance High Dynamic Range image file
+--
+0   233F52414449414E
+HDR
+application/octet-stream
+
+Houdini image file. Three-dimensional modeling and animation
+--
+0   48695021
+HIP
+application/octet-stream
+
+Windows Help file_1
+--
+0   0000FFFFFFFF
+HLP
+application/x-winhelp
+
+Windows Help file_2
+--
+0   3F5F0300
+HLP
+application/x-winhelp
+
+Windows help file_3
+--
+0   4C4E0200
+HLP
+application/x-winhelp
+
+BinHex 4 Compressed Archive
+--
+0   2854686973206669
+HQX
+application/mac-binhex
+
+Windows icon|printer spool file
+--
+0   00000100
+ICO
+image/x-icon
+
+AOL user configuration
+--
+0   414F4C4442
+IDX
+application/octet-stream
+
+AOL config files
+--
+0   414F4C
+IDX
+application/octet-stream
+
+Quicken QuickFinder Information File
+--
+0   5000000020000000
+IDX
+application/octet-stream
+
+DVD info file
+--
+0   445644
+IFO
+application/octet-stream
+
+ChromaGraph Graphics Card Bitmap
+--
+0   504943540008
+IMG
+application/octet-stream
+
+GEM Raster file
+--
+0   EB3C902A
+IMG
+application/octet-stream
+
+Img Software Bitmap
+--
+0   53434D49
+IMG
+application/octet-stream
+
+AOL client preferences|settings file
+--
+0   414F4C494458
+IND
+application/x-latex
+
+AOL config files
+--
+0   414F4C
+IND
+application/x-latex
+
+Amiga icon
+--
+0   E310000100000000
+INFO
+application/x-texinfo
+
+GNU Info Reader file
+--
+0   5468697320697320
+INFO
+application/x-texinfo
+
+ZoomBrowser Image Index
+--
+0   7A626578
+INFO
+application/x-texinfo
+
+ISO-9660 CD Disc Image
+--
+0   4344303031
+ISO
+application/octet-stream
+
+RealPlayer video file (V11+)
+--
+0   2E524543
+IVR
+application/vnd.rn-realplayer
+
+Java archive_1
+--
+0   504B0304
+JAR
+application/java-archive
+
+Java Archive
+--
+0   504B0708
+JAR
+application/java-archive
+
+Jar archive
+--
+0   5F27A889
+JAR
+application/java-archive
+
+JAR archive data
+--
+0   504B0506
+JAR
+application/java-archive
+
+JARCS compressed archive
+--
+0   4A4152435300
+JAR
+application/java-archive
+
+Java archive_2
+--
+0   504B030414000800
+JAR
+application/java-archive
+
+Joint Photographic Experts Group
+--
+0   FFD8FF
+JPEG
+image/jpeg
+
+Joint Photographic Experts Group
+--
+0   FFD8FFDB
+JPG
+image/jpeg
+
+Joint Photographic Experts Group
+--
+0   FFD8FFE0nnnn4A4649460001
+JPG
+image/jpeg
+
+Joint Photographic Experts Group
+--
+0   FFD8FFE1nnnn457869660000
+JPG
+image/jpg
+
+JPEG IMAGE
+--
+0   FFD8FFE0
+JFIF
+image/jpeg
+
+JFIF IMAGE FILE - jpeg
+--
+0   FFD8FFE0
+JFIF
+image/jpeg
+
+AOL ART file_1
+--
+0   4A47030E
+JG
+?
+
+AOL ART file_2
+--
+0   4A47040E
+JG
+?
+
+MS Windows journal
+--
+0   4E422A00
+JNT
+application/octet-stream
+
+JPEG2000 image files
+--
+0   0000000C6A502020
+JP2
+image/jp2
+
+JPEG IMAGE
+--
+0   FFD8FFE0
+JPE
+image/jpeg
+
+JPE IMAGE FILE - jpeg
+--
+0   FFD8FFE0
+JPE
+image/jpeg
+
+JPEG IMAGE
+--
+0   FFD8FFE0
+JPEG
+image/jpeg
+
+CANNON EOS JPEG FILE
+--
+0   FFD8FFE2
+JPEG
+image/jpeg
+
+SAMSUNG D500 JPEG FILE
+--
+0   FFD8FFE3
+JPEG
+image/jpeg
+
+JPEG IMAGE
+--
+0   FFD8FFE0
+JPG
+image/jpeg
+
+Digital camera JPG using Exchangeable Image File Format (EXIF)
+--
+0   FFD8FFE1
+JPG
+image/jpeg
+
+Still Picture Interchange File Format (SPIFF)
+--
+0   FFD8FFE8
+JPG
+image/jpeg
+
+MS Windows journal
+--
+0   4E422A00
+JTP
+application/octet-stream
+
+KGB archive
+--
+0   4B47425F61726368
+KGB
+application/x-kgb-compressed
+
+Sprint Music Store audio
+--
+0   49443303000000
+KOZ
+audio/vnd.audiokoz
+
+KWord document
+--
+0   504B0304
+KWD
+application/octet-stream
+
+Jeppesen FliteLog file
+--
+0   C8007900
+LBK
+application/octet-stream
+
+Windows application log
+--
+0   7B0D0A6F20
+LGC
+application/octet-stream
+
+Windows application log
+--
+0   7B0D0A6F20
+LGD
+application/octet-stream
+
+Compressed archive
+--
+0   2D6C68
+LHA
+application/x-lzh-compressed
+
+Unix archiver (ar)|MS Program Library Common Object File Format (COFF)
+--
+0   213C617263683E0A
+LIB
+application/octet-stream
+
+MS Reader eBook
+--
+0   49544F4C49544C53
+LIT
+application/x-ms-reader
+
+Windows shortcut file
+--
+0   4C00000001140200
+LNK
+application/octet-stream
+
+Symantec Wise Installer log
+--
+0   2A2A2A2020496E73
+LOG
+text/plain
+
+Lotus WordPro file
+--
+0   576F726450726F
+LWP
+application/vnd.lotus-wordpro
+
+Compressed archive
+--
+0   2D6C68
+LZH
+application/x-lzh-compressed
+
+Apple audio and video files
+--
+0   00000020667479704D3441
+M4A
+audio/x-m4a
+
+Windows Visual Stylesheet
+--
+0   3C3F786D6C2076657273696F6E3D
+MANIFEST
+application/octet-stream
+
+MAr compressed archive
+--
+0   4D41723000
+MAR
+application/vnd.ms-access
+
+Microsoft|MSN MARC archive
+--
+0   4D415243
+MAR
+application/vnd.ms-access
+
+Mozilla archive
+--
+0   4D41523100
+MAR
+application/vnd.ms-access
+
+Microsoft Access
+--
+0   000100005374616E64617264204A6574204442
+MDB
+application/vnd.ms-access
+
+SQL Data Base
+--
+0   010F0000
+MDF
+application/octet-stream
+
+MS Document Imaging file
+--
+0   4550
+MDI
+image/vnd.ms-modi
+
+MIDI sound file
+--
+0   4D546864
+MID
+audio/midi
+
+MIDI sound file
+--
+0   4D546864
+MIDI
+audio/midi
+
+Adobe FrameMaker
+--
+0   3C4D616B65724669
+MIF
+application/x-mif
+
+MapInfo Interchange Format file
+--
+0   56657273696F6E20
+MIF
+application/x-mif
+
+Matroska stream file
+--
+0   1A45DFA393428288
+MKV
+video/x-matroska
+
+Milestones project management file
+--
+0   4D494C4553
+MLS
+application/octet-stream
+
+Milestones project management file_1
+--
+0   4D56323134
+MLS
+application/octet-stream
+
+Milestones project management file_2
+--
+0   4D563243
+MLS
+application/octet-stream
+
+Skype localization data file
+--
+0   4D4C5357
+MLS
+application/octet-stream
+
+Yamaha Synthetic music Mobile Application Format
+--
+0   4D4D4D440000
+MMF
+application/x-smaf
+
+Microsoft Money file
+--
+0   000100004D534953414D204461746162617365
+MNY
+application/vnd.ms-money
+
+MSinfo file
+--
+0   FFFE23006C006900
+MOF
+application/octet-stream
+
+QuickTime movie_1
+--
+0   6D6F6F76
+MOV
+video/quicktime
+
+QuickTime movie_2
+--
+0   66726565
+MOV
+video/quicktime
+
+QuickTime movie_3
+--
+0   6D646174
+MOV
+video/quicktime
+
+QuickTime movie_4
+--
+0   77696465
+MOV
+video/quicktime
+
+QuickTime movie_5
+--
+0   706E6F74
+MOV
+video/quicktime
+
+QuickTime movie_6
+--
+0   736B6970
+MOV
+video/quicktime
+
+Monochrome Picture TIFF bitmap
+--
+0   0CED
+MP
+application/x-rtg
+
+MP3 audio file
+--
+0   494433
+MP3
+audio/mpeg
+
+MPEG Audio Layer 3 File
+--
+0   FFFB
+MP3
+audio/mp3
+
+MPEG audio file frame
+--
+0   FFE*
+MPEG
+video/mpeg
+
+MPEG audio file frame
+--
+0   FFF*
+MPEG
+video/mpeg
+
+DVD video file
+--
+0   000001BA
+MPG
+video/mpeg
+
+MPEG video file
+--
+0   000001B3
+MPG
+video/mpeg
+
+Microsoft Common Console Document
+--
+0   D0CF11E0A1B11AE1
+MSC
+application/octet-stream
+
+MMC Snap-in Control file
+--
+0   3C3F786D6C2076657273696F6E3D22312E30223F3E0D0A3C4D4D435F436F6E736F6C6546696C6520436F6E736F6C65566572
+MSC
+application/octet-stream
+
+Microsoft Installer package
+--
+0   D0CF11E0A1B11AE1
+MSI
+application/x-msi
+
+Cerius2 file
+--
+0   2320
+MSI
+application/x-msi
+
+Sony Compressed Voice File
+--
+0   4D535F564F494345
+MSV
+audio/x-msv
+
+Minitab data file
+--
+0   D0CF11E0A1B11AE1
+MTW
+application/octet-stream
+
+Nero CD compilation
+--
+0   0E4E65726F49534F
+NRI
+application/octet-stream
+
+Lotus Notes database
+--
+0   1A0000040000
+NSF
+application/octet-stream
+
+NES Sound file
+--
+0   4E45534D1A01
+NSF
+application/octet-stream
+
+Lotus Notes database template
+--
+0   1A0000
+NTF
+application/octet-stream
+
+National Imagery Transmission Format file
+--
+0   4E49544630
+NTF
+application/octet-stream
+
+National Transfer Format Map
+--
+0   30314F52444E414E
+NTF
+application/octet-stream
+
+VMware BIOS state file
+--
+0   4D52564E
+NVRAM
+application/octet-stream
+
+MS COFF relocatable object code
+--
+0   4C01
+OBJ
+application/octet-stream
+
+Relocatable object code
+--
+0   80
+OBJ
+application/octet-stream
+
+ActiveX|OLE Custom Control
+--
+0   4D5A
+OCX
+application/octet-stream
+
+OpenDocument template
+--
+0   504B0304
+ODP
+application/vnd.oasis.opendocument.presentation
+
+OpenDocument template
+--
+0   504B0304
+ODT
+application/vnd.oasis.opendocument.text
+
+Ogg Vorbis Codec compressed file
+--
+0   4F67675300020000
+OGA
+audio/ogg
+
+Ogg Vorbis Codec compressed file
+--
+0   4F67675300020000
+OGG
+audio/ogg
+
+Ogg Vorbis Codec compressed file
+--
+0   4F67675300020000
+OGV
+video/ogg
+
+Ogg Vorbis Codec compressed file
+--
+0   4F67675300020000
+OGX
+audio/ogg
+
+Ogg Vorbis Compressed Audio
+--
+0   4F676753
+OGA
+audio/ogg
+
+Ogg Video
+--
+0   4F676753
+OGV
+video/ogg
+
+OLE object library
+--
+0   4D5A
+OLB
+application/octet-stream
+
+MS OneNote note
+--
+0   E4525C7B8CD8A74D
+ONE
+application/onenote
+
+Developer Studio File Options file
+--
+0   D0CF11E0A1B11AE1
+OPT
+application/octet-stream
+
+Developer Studio subheader
+--
+0   FDFFFFFF20
+OPT
+application/octet-stream
+
+AOL personal file cabinet
+--
+0   414F4C564D313030
+ORG
+application/vnd.lotus-organizer
+
+OpenDocument template
+--
+0   504B0304
+OTT
+application/vnd.oasis.opendocument.formula-template
+
+Intel PROset|Wireless Profile
+--
+0   64000000
+P10
+application/x-par2
+
+PAK Compressed archive file
+--
+0   1A0B
+PAK
+application/octet-stream
+
+Quake archive file
+--
+0   5041434B
+PAK
+application/octet-stream
+
+GIMP pattern file
+--
+0   47504154
+PAT
+application/octet-stream
+
+PAX password protected bitmap
+--
+0   504158
+PAX
+application/octet-stream
+
+Visual C PreCompiled header
+--
+0   564350434830
+PCH
+application/octet-stream
+
+ZSOFT Paintbrush file_3
+--
+0   0A050101
+PCX
+application/x-pc-paintbrush
+
+ZSOFT Paintbrush file_2
+--
+0   0A030101
+PCX
+application/x-pc-paintbrush
+
+ZSOFT Paintbrush file_1
+--
+0   0A020101
+PCX
+application/x-pc-paintbrush
+
+Merriam-Webster Pocket Dictionary
+--
+0   4D2D5720506F636B
+PDB
+chemical/x-pdb
+
+BGBlitz position database file
+--
+0   ACED000573720012
+PDB
+chemical/x-pdb
+
+PowerBASIC Debugger Symbols
+--
+0   737A657A
+PDB
+chemical/x-pdb
+
+PalmOS SuperMemo
+--
+0   736D5F
+PDB
+chemical/x-pdb
+
+MS C++ debugging symbols file
+--
+0   4D6963726F736F667420432F432B2B20
+PDB
+chemical/x-pdb
+
+PDF file
+--
+0   25504446
+PDF
+application/pdf
+
+Windows prefetch file
+--
+0   1100000053434341
+PF
+application/x-pf
+
+AOL personal file cabinet
+--
+0   414F4C564D313030
+PFC
+application/octet-stream
+
+AOL config files
+--
+0   414F4C
+PFC
+application/octet-stream
+
+PGP disk image
+--
+0   504750644D41494E
+PGD
+application/octet-stream
+
+Portable Graymap Graphic
+--
+0   50350A
+PGM
+image/x-portable-graymap
+
+Windows|DOS executable file
+--
+0   4D5A
+PIF
+application/octet-stream
+
+Program Information Files
+--
+0   00
+PIF
+application/x-msdos-program
+
+PGP public keyring
+--
+0   9901
+PKR
+application/octet-stream
+
+PNG image
+--
+0   89504E470D0A1A0A
+PNG
+image/png
+
+Microsoft PowerPoint Presentation
+--
+0   D0CF11E0A1B11AE1
+PPS
+application/mspowerpoint
+
+PowerPoint presentation subheader_3
+--
+0   A0461DF0
+PPT
+application/mspowerpoint
+
+PowerPoint presentation subheader_2
+--
+0   0F00E803
+PPT
+application/mspowerpoint
+
+Microsoft PowerPoint Template
+--
+0   006E1EF0
+PPT
+application/mspowerpoint
+
+PowerPoint presentation subheader_6
+--
+0   FDFFFFFF43000000
+PPT
+application/mspowerpoint
+
+PowerPoint presentation subheader_5
+--
+0   FDFFFFFF1C000000
+PPT
+application/mspowerpoint
+
+Microsoft Office document
+--
+0   D0CF11E0A1B11AE1
+PPT
+application/mspowerpoint
+
+PowerPoint presentation subheader_4
+--
+0   FDFFFFFF0E000000
+PPT
+application/mspowerpoint
+
+MS Office 2007 documents
+--
+0   504B030414000600
+PPTX
+application/vnd.openxmlformats
+
+MS Office Open XML Format Document
+--
+0   504B0304
+PPTX
+application/vnd.openxmlformats
+
+Powerpoint Packaged Presentation
+--
+0   4D534346
+PPZ
+application/octet-stream
+
+PathWay Map file
+--
+0   74424D504B6E5772
+PRC
+application/x-mobipocket
+
+Palmpilot resource file
+--
+0   424F4F4B4D4F4249
+PRC
+application/x-mobipocket
+
+Photoshop image
+--
+0   38425053
+PSD
+image/vnd.adobe.photoshop
+
+Corel Paint Shop Pro image
+--
+0   7E424B00
+PSP
+application/octet-stream
+
+MS Publisher file
+--
+0   D0CF11E0A1B11AE1
+PUB
+application/x-pub
+
+MS WinMobile personal note
+--
+0   7B5C707769
+PWI
+application/x-pocket-word
+
+Win98 password file
+--
+0   E3828596
+PWL
+application/octet-stream
+
+Win95 password file
+--
+0   B04D4643
+PWL
+application/octet-stream
+
+QuickBooks backup
+--
+0   458600000600
+QBB
+application/octet-stream
+
+Resource Interchange File Format
+--
+0   52494646
+QCP
+audio/vnd.qcelp
+
+QDF Quicken data
+--
+0   AC9EBD8F0000
+QDF
+application/octet-stream
+
+QDL Quicken data
+--
+0   51454C20
+QEL
+application/octet-stream
+
+QEMU Qcow Disk Image
+--
+0   514649FB
+QEMU
+?
+
+QEMU Qcow Disk Image
+--
+0   514649FB
+IMG
+?
+
+Quicken price history
+--
+0   03000000
+QPH
+application/octet-stream
+
+ABD | QSD Quicken data file
+--
+0   5157205665722E20
+QSD
+application/octet-stream
+
+Windows|DOS executable file
+--
+0   4D5A
+QTS
+application/octet-stream
+
+Windows|DOS executable file
+--
+0   4D5A
+QTX
+application/octet-stream
+
+Quark Express (Motorola)
+--
+0   00004D4D585052
+QXD
+application/x-quarkxpress
+
+Quark Express (Intel)
+--
+0   00004949585052
+QXD
+application/x-quarkxpress
+
+RealAudio streaming media
+--
+0   2E7261FD00
+RA
+audio/vnd.rn-realaudio
+
+RealAudio file
+--
+0   2E524D4600000012
+RA
+audio/vnd.rn-realaudio
+
+RealMedia metafile
+--
+0   727473703A2F2F
+RAM
+application/octet-stream
+
+WinRAR compressed archive
+--
+0   526172211A0700
+RAR
+application/x-rar-compressed
+
+RAR archive file format
+--
+0   526172211A070100
+RAR
+application/vnd.rar
+
+Windows Registry file
+--
+0   FFFE
+REG
+application/octet-stream
+
+WinNT Registry|Registry Undo files
+--
+0   52454745444954
+REG
+application/octet-stream
+
+Silicon Graphics RGB Bitmap
+--
+0   01DA01010003
+RGB
+image/x-sgi
+
+RealMedia streaming media
+--
+0   2E524D46
+RM
+application/vnd.rn-realmedia
+
+Resource Interchange File Format
+--
+0   52494646
+RMI
+audio/midi
+
+RealMedia streaming media
+--
+0   2E524D46
+RMVB
+application/vnd.rn-realmedia-vbr
+
+RedHat Package Manager (RPM) package
+--
+0   EDABEEDB
+RPM
+application/x-rpm
+
+RagTime document
+--
+0   43232B44A4434DA5
+RTD
+application/octet-stream
+
+RTF file
+--
+0   7B5C72746631
+RTF
+application/rtf
+
+Revit Project file
+--
+0   D0CF11E0A1B11AE1
+RVT
+application/octet-stream
+
+Lotus AMI Pro document_2
+--
+0   5B7665725D
+SAM
+application/octet-stream
+
+Lotus AMI Pro document_1
+--
+0   5B5645525D
+SAM
+application/octet-stream
+
+SPSS Data file
+--
+0   24464C3240282329
+SAV
+application/octet-stream
+
+Screen saver
+--
+0   4D5A
+SCR
+application/octet-stream
+
+SmartDraw Drawing file
+--
+0   534D415254445257
+SDR
+application/x-smartdraw
+
+Harvard Graphics presentation file
+--
+0   4848474231
+SH3
+application/octet-stream
+
+Win Server 2003 printer spool file
+--
+0   68490000
+SHD
+application/octet-stream
+
+Win2000|XP printer spool file
+--
+0   67490000
+SHD
+application/octet-stream
+
+Win9x printer spool file
+--
+0   4B490000
+SHD
+application/octet-stream
+
+WinNT printer spool file
+--
+0   66490000
+SHD
+application/octet-stream
+
+Harvard Graphics presentation
+--
+0   53484F57
+SHW
+application/vnd.corel-presentations
+
+StuffIt compressed archive
+--
+0   5374756666497420
+SIT
+application/x-sea
+
+StuffIt archive
+--
+0   5349542100
+SIT
+application/x-sea
+
+SkinCrafter skin
+--
+0   07534B46
+SKF
+application/octet-stream
+
+PGP secret keyring_2
+--
+0   9501
+SKR
+application/octet-stream
+
+PGP secret keyring_1
+--
+0   9500
+SKR
+application/octet-stream
+
+Surfplan kite project file
+--
+0   3A56455253494F4E
+SLE
+application/octet-stream
+
+Steganos virtual secure drive
+--
+0   414376
+SLE
+application/octet-stream
+
+Visual Studio .NET file
+--
+0   4D6963726F736F66742056697375616C
+SLN
+text/plain
+
+Netscape Communicator (v4) mail folder
+--
+0   001E849000000000
+SNM
+application/octet-stream
+
+MS Access Snapshot Viewer file
+--
+0   4D534346
+SNP
+application/vnd.ms-access
+
+Visual Studio Solution User Options file
+--
+0   D0CF11E0A1B11AE1
+SOU
+application/octet-stream
+
+Windows icon|printer spool file
+--
+0   00000100
+SPL
+application/x-futuresplash
+
+SPSS output file
+--
+0   D0CF11E0A1B11AE1
+SPO
+application/octet-stream
+
+WinNT Registry|Registry Undo files
+--
+0   52454745444954
+SUD
+application/octet-stream
+
+Visual Studio Solution subheader
+--
+0   FDFFFFFF04
+SUO
+application/octet-stream
+
+Shockwave Flash player
+--
+0   465753
+SWF
+application/x-shockwave-flash
+
+Shockwave Flash file
+--
+0   435753
+SWF
+application/x-shockwave-flash
+
+StarOffice spreadsheet
+--
+0   504B0304
+SXC
+application/vnd.sun.xml.calc
+
+OpenOffice documents
+--
+0   504B0304
+SXD
+application/vnd.sun.xml.draw
+
+OpenOffice documents
+--
+0   504B0304
+SXI
+application/vnd.sun.xml.impress
+
+OpenOffice documents
+--
+0   504B0304
+SXW
+application/vnd.sun.xml.writer
+
+Windows executable
+--
+0   FF
+SYS
+text/plain
+
+Windows executable file_3
+--
+0   EB
+SYS
+text/plain
+
+Windows executable file_2
+--
+0   E9
+SYS
+text/plain
+
+Windows executable file_1
+--
+0   E8
+SYS
+text/plain
+
+Keyboard driver file
+--
+0   FF4B455942202020
+SYS
+text/plain
+
+Windows|DOS executable file
+--
+0   4D5A
+SYS
+text/plain
+
+DOS system driver
+--
+0   FFFFFFFF
+SYS
+text/plain
+
+Harvard Graphics symbol graphic
+--
+0   414D594F
+SYW
+?
+
+Tape Archive
+--
+0   7573746172
+TAR
+application/x-tar
+
+bzip2 compressed archive
+--
+0   425A68
+TAR.BZ2
+application/x-bzip2
+
+Compressed tape archive_2
+--
+0   1FA0
+TAR.Z
+application/x-compress
+
+Compressed tape archive_1
+--
+0   1F9D90
+TAR.Z
+application/x-compress
+
+bzip2 compressed archive
+--
+0   425A68
+TB2
+application/octet-stream
+
+bzip2 compressed archive
+--
+0   425A68
+TBZ2
+?
+
+Acronis True Image
+--
+0   B46E6844
+TIB
+?
+
+Tagged Image File Format
+--
+0   4D4D002B
+TIF
+image/tiff
+
+Tagged Image File Format
+--
+0   4D4D002A
+TIF
+image/tiff
+
+Tagged Image File Format
+--
+0   49492A00
+TIF
+image/tiff
+
+Tagged Image File Format
+--
+0   492049
+TIF
+image/tiff
+
+Tagged Image File Format
+--
+0   4D4D002A
+TIFF
+image/tiff
+
+Tagged Image File Format
+--
+0   49492A00
+TIFF
+image/tiff
+
+TIFF file_1
+--
+0   492049
+TIFF
+image/tiff
+
+TIFF file_4
+--
+0   4D4D002B
+TIFF
+image/tiff
+
+OLE|SPSS|Visual C++ library file
+--
+0   4D53465402000100
+TLB
+?
+
+Novell LANalyzer capture file
+--
+0   0110
+TR1
+?
+
+Unicode extensions
+--
+0   55434558
+UCE
+application/octet-stream
+
+UFA compressed archive
+--
+0   554641C6D2C1
+UFA
+application/octet-stream
+
+VisualBASIC application
+--
+0   4D5A
+VBX
+application/octet-stream
+
+VideoVCD|VCDImager file
+--
+0   454E545259564344
+VCD
+application/x-cdlink
+
+vCard
+--
+0   424547494E3A5643
+VCF
+text/plain
+
+Visual C++ Workbench Info File
+--
+0   5B4D535643
+VCW
+application/octet-stream
+
+Virtual PC HD image
+--
+0   636F6E6563746978
+VHD
+application/octet-stream
+
+VMware Virtual Disk File
+--
+0   4B444D
+VMDK
+application/octet-stream
+
+VMware 4 Virtual Disk description
+--
+0   23204469736B2044
+VMDK
+application/octet-stream
+
+VMware 3 Virtual Disk
+--
+0   434F5744
+VMDK
+application/octet-stream
+
+DVD video file
+--
+0   000001BA
+VOB
+video/x-ms-vob
+
+Visio file
+--
+0   D0CF11E0A1B11AE1
+VSD
+application/x-visio
+
+Windows virtual device drivers
+--
+0   4D5A
+VXD
+application/x-winexe
+
+Outlook Express address book (Win95)
+--
+0   813284C18505D011
+WAB
+application/octet-stream
+
+Outlook address file
+--
+0   9CCBCB8D1375D211
+WAB
+application/octet-stream
+
+Resource Interchange File Format
+--
+0   52494646
+WAV
+audio/x-wav
+
+Waveform Audio File Format (WAVE/WAV)
+--
+0   57415645
+WAV
+audio/vnd.wave
+
+QuattroPro spreadsheet
+--
+0   00000200
+WB2
+application/quattro-pro
+
+Quatro Pro for Windows 7.0
+--
+0   3E000300FEFF090006
+WB3
+application/quattro-pro
+
+WebM Video
+--
+0   1A45DFA3
+WEBM
+video/webm
+
+Matroska Video
+--
+0   1A45DFA3
+MKV
+video/x-matroska
+
+Matroska Audio
+--
+0   1A45DFA3
+MKA
+audio/x-matroska
+
+TACT (Text Analysis Computing Tools) Data File
+--
+0   1A45DFA3
+MKS
+application/octet-stream
+
+Tape Archive File
+--
+0   7573746172202000
+TAR
+application/tar
+
+Tape Archive File
+--
+0   7573746172003030
+TAR
+application/tar
+
+Microsoft Office document
+--
+0   D0CF11E0A1B11AE1
+WIZ
+application/msword
+
+Lotus 1-2-3 (v1)
+--
+0   0000020006040600
+WK1
+application/x-123
+
+Lotus 1-2-3 (v3)
+--
+0   00001A0000100400
+WK3
+application/x-123
+
+Lotus 1-2-3 (v4|v5)
+--
+0   00001A0002100400
+WK4
+application/x-123
+
+Lotus 1-2-3 (v4|v5)
+--
+0   00001A0002100400
+WK5
+application/x-123
+
+Works for Windows spreadsheet
+--
+0   FF00020004040554
+WKS
+application/vnd.ms-works
+
+DeskMate Worksheet
+--
+0   0E574B53
+WKS
+application/vnd.ms-works
+
+Windows Media Audio|Video File
+--
+0   3026B2758E66CF11
+WMA
+audio/x-ms-wma
+
+Windows graphics metafile
+--
+0   D7CDC69A
+WMF
+windows/metafile
+
+Windows Media Audio|Video File
+--
+0   3026B2758E66CF11
+WMV
+video/x-ms-wmv
+
+Windows Media compressed skin file
+--
+0   504B0304
+WMZ
+application/x-ms-wmz
+
+WordPerfect text and graphics
+--
+0   FF575043
+WP
+application/wordperfect
+
+WordPerfect text and graphics
+--
+0   FF575043
+WP5
+application/wordperfect
+
+WordPerfect text and graphics
+--
+0   FF575043
+WP6
+application/wordperfect
+
+WordPerfect text and graphics
+--
+0   FF575043
+WPD
+application/wordperfect
+
+WordPerfect text
+--
+0   81CDAB
+WPF
+application/octet-stream
+
+WordPerfect text and graphics
+--
+0   FF575043
+WPG
+application/x-wildtangent-web-driver
+
+Windows Media Player playlist
+--
+0   4D6963726F736F66742057696E646F7773204D6564696120506C61796572202D2D20
+WPL
+application/vnd.ms-wpl
+
+WordPerfect text and graphics
+--
+0   FF575043
+WPP
+application/octet-stream
+
+MSWorks text document
+--
+0   D0CF11E0A1B11AE1
+WPS
+application/vnd.ms-works
+
+MS Write file_3
+--
+0   BE000000AB
+WRI
+application/mswrite
+
+MS Write file_2
+--
+0   32BE
+WRI
+application/mswrite
+
+MS Write file_1
+--
+0   31BE
+WRI
+application/mswrite
+
+WordStar Version 5.0|6.0 document
+--
+0   1D7D
+WS
+application/x-ws
+
+WordStar for Windows file
+--
+0   575332303030
+WS2
+application/x-ws2
+
+BizTalk XML-Data Reduced Schema
+--
+0   3C
+XDR
+video/x-amt-demorun
+
+Microsoft Office document
+--
+0   D0CF11E0A1B11AE1
+XLA
+application/excel
+
+Excel spreadsheet subheader_6
+--
+0   FDFFFFFF28
+XLS
+application/excel
+
+Excel spreadsheet subheader_5
+--
+0   FDFFFFFF23
+XLS
+application/excel
+
+Microsoft Office document
+--
+0   D0CF11E0A1B11AE1
+XLS
+application/excel
+
+Excel spreadsheet subheader_4
+--
+0   FDFFFFFF22
+XLS
+application/excel
+
+Excel spreadsheet subheader_3
+--
+0   FDFFFFFF1F
+XLS
+application/excel
+
+Excel spreadsheet subheader_2
+--
+0   FDFFFFFF10
+XLS
+application/excel
+
+Excel spreadsheet subheader_1
+--
+0   0908100000060500
+XLS
+application/excel
+
+Excel spreadsheet subheader_7
+--
+0   FDFFFFFF29
+XLS
+application/excel
+
+MS Office 2007 documents
+--
+0   504B030414000600
+XLSX
+application/excel
+
+MS Office Open XML Format Document
+--
+0   504B0304
+XLSX
+application/excel
+
+XML Extensible Markup Language
+--
+0   3C3F786D6C
+XML
+text/xml
+
+User Interface Language
+--
+0   3C3F786D6C2076657273696F6E3D22312E30223F3E
+XML
+text/xml
+
+Mozilla Browser Archive
+--
+0   504B0304
+XPI
+application/x-xpinstall
+
+XML paper specification file
+--
+0   504B0304
+XPS
+application/vnd.ms-xpsdocument
+
+eXact Packager Models
+--
+0   504B0304
+XPT
+application/octet-stream
+
+XPCOM libraries
+--
+0   5850434F4D0A5479
+XPT
+
+Compressed file (often tar zip)
+--
+0   1f9d
+Z
+application/tar
+
+Compressed file (often tar zip)
+--
+0   1FA0
+Z
+application/tar
+
+ZoneAlarm data file
+--
+0   4D5A90000300000004000000FFFF
+ZAP
+application/octet-stream
+
+PKSFX self-extracting archive
+--
+0   504B537058
+ZIP
+application/zip
+
+PKLITE archive
+--
+0   504B4C495445
+ZIP
+application/zip
+
+WinZip compressed archive
+--
+0   57696E5A6970
+ZIP
+application/zip
+
+ZLock Pro encrypted ZIP
+--
+0   504B030414000100
+ZIP
+application/zip
+
+PKZIP archive_3
+--
+0   504B0708
+ZIP
+application/zip
+
+PKZIP archive_2
+--
+0   504B0506
+ZIP
+application/zip
+
+PKZIP archive_1
+--
+0   504B0304
+ZIP
+application/zip
+
+ZLIB archive
+--
+0   7801
+ZLIB
+application/zlib
+
+ZLIB archive
+--
+0   789C
+ZLIB
+application/zlib
+
+ZLIB archive
+--
+0   78DA
+ZLIB
+application/zlib
+
+ZOO compressed archive
+--
+0   5A4F4F20
+ZOO
+application/zoo
+
+ZOO compressed archive
+--
+0   5A4F4F20
+ZOO
+application/zoo
+
+ZOO compressed archive
+--
+0   5A4F4F20
+ZOO
+application/zoo
+
+ZOO compressed archive
+--
+0   5A4F4F20
+ZOO
+application/zoo
+
+ZOO compressed archive
+--
+0   5A4F4F20
+ZOO
+application/zoo
+
+RISC OS Chunk File Format
+--
+0   c3cbc6c5
+-
+-
