@@ -9,7 +9,7 @@ namespace Codervio\Filesignature;
 interface FilesignatureInterface
 {
     const VERSION = 'release';
-    const DEF_MIME_DAT = 'db' . DIRECTORY_SEPARATOR . 'mimes_' . self::VERSION . '.dat';
+    const DEF_MIME_DAT = __DIR__.DIRECTORY_SEPARATOR.'db' . DIRECTORY_SEPARATOR . 'mimes_' . self::VERSION . '.dat';
 
     /**
      * FilesignatureInterface constructor.

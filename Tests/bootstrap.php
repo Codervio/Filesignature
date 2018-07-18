@@ -8,4 +8,4 @@ error_reporting(E_ALL | E_STRICT);
 /**
  * Autoloader
  */
-require '../../../autoload.php';
+require '../../vendor/autoload.php';

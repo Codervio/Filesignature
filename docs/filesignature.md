@@ -30,12 +30,28 @@ Example #1 Filesignature example
 ```php
 use Codervio\Filesignature\Filesignature;
 
-$filesignature = new Filesignature('file.jpg');
+$filesignature = new Filesignature();
+
+$filesignature->setFile('image.jpg');
 echo $filesignature->getVendor();
 ```
 
 ```php
 Joint Photographic Experts Group
+```
+
+Example #2 Filesignature guess by extension
+```php
+use Codervio\Filesignature\Filesignature;
+
+$filesignature = new Filesignature();
+
+$filesignature->recognizeByMime('application/pdf');
+echo $filesignature->getExtension();
+```
+
+```php
+PDF
 ```
 
 ## Notes

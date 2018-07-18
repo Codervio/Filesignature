@@ -6,6 +6,8 @@
 
 A `Filesignature` detects mime type, extension and type of file by reading a headers from a file.
 
+It is possible to guess mime type, extension, vendor name and mime type using input arguments function.
+
 ## Installation
 
 1. Installation via [Composer](http://www.composer.org) on [Packagist](https://packagist.org/packages/codervio/filesignature)
@@ -24,4 +26,18 @@ Quality assurance: Unit tests provided
 
 #### References
 
-* [`Filesignature`] - constructor class
+* [`Filesignature`] - A filesignature constructor
+
+Fetching a result:
+
+* [`getVendor()`] - Fetch a vendor by file
+* [`getExtension()`] - Get an extension type
+* [`getMime()`] - Get an extension type
+* [`getSignature()`] - Get a file signature headers
+* [`getVendor()`] - Fetch a vendor by file
+* [`getArrayResult()`] - Returns result as array
+
+Guess by input arguments:
+
+* [`recognizeByMime()`] - Return a result from mime type
+* [`recognizeByExtension()`] - Return a result from extension name

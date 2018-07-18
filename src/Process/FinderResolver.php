@@ -90,11 +90,14 @@ class FinderResolver
     {
         foreach ($this->result as $value) {
 
+            $signature = explode('  ', $value['signature']);
+            $signature = strtolower($signature[1]);
+
             if ($single) {
-                return $value['signature'];
+                return trim($signature);
             }
 
-            $result[] = $value['signature'];
+            $result[] = trim($signature);
         }
 
         if ($result) {
