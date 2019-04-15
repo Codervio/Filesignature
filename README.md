@@ -8,6 +8,12 @@ A `Filesignature` detects mime type, extension and type of file by reading a hea
 
 It is possible to guess mime type, extension, vendor name and mime type using input arguments function.
 
+## Donations
+
+Due I am working 100% alone without any helps, organizations and any others team I can be satisfy for receiving any amount of payment to improve, develop and continue building on origin idea of framework.
+
+You can pay any amount to PayPal: https://www.paypal.me/codervio?locale.x=en_US
+
 ## Installation
 
 1. Installation via [Composer](http://www.composer.org) on [Packagist](https://packagist.org/packages/codervio/filesignature)
