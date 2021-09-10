@@ -47,3 +47,5 @@ Guess by input arguments:
 
 * [`recognizeByMime()`] - Return a result from mime type
 * [`recognizeByExtension()`] - Return a result from extension name
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FCodervio%2FFilesignature.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FCodervio%2FFilesignature?ref=badge_large)
